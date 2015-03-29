@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=controller
+comment0.target=void\ onInit(com.leapmotion.leap.Controller)
+comment1.params=controller
+comment1.target=void\ onConnect(com.leapmotion.leap.Controller)
+comment2.params=controller
+comment2.target=void\ onDisconnect(com.leapmotion.leap.Controller)
+comment3.params=controller
+comment3.target=void\ onExit(com.leapmotion.leap.Controller)
+comment4.params=controller
+comment4.target=void\ onFrame(com.leapmotion.leap.Controller)
+numComments=5
